@@ -1,0 +1,21 @@
+<solid>
+   <title>Raport</title>
+   <client>Klient:</client>
+   <vechicle>Pojazd:</vechicle>
+   <model>Model:</model>
+   <plate_nr>Numer rejestracyjny:</plate_nr>
+   <mileage>Przebieg: </mileage>
+   <date>Data:</date>
+   <time>Godzina:</time>
+   <balancing_program>Program balansu:</balancing_program>
+   <balancing_program_img>../data/alu.bmp</balancing_program_img>
+   <car_img>../data/car.bmp</car_img>
+   <wheel_1>1</wheel_1>
+   <wheel_2>2</wheel_2>
+   <wheel_3>3</wheel_3>
+   <wheel_4>4</wheel_4>
+   <unitrol_logo_img>../data/logo.jpg</unitrol_logo_img>
+   <distance_img>../data/distance.bmp</distance_img>
+   <diameter_img>../data/diameter.bmp</diameter_img>
+   <width_img>../data/width.bmp</width_img>
+</solid>
