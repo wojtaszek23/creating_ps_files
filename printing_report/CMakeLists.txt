@@ -8,8 +8,8 @@ LINK_DIRECTORIES(
     "/usr/lib/arm-linux-gnueabihf"
 )
 
-include_directories(../../../libs/inc)
-file(GLOB SOURCES "../../../libs/src/*.cpp")
+include_directories(../libs/inc)
+file(GLOB SOURCES "../libs/src/*.cpp")
 find_package( Boost REQUIRED COMPONENTS program_options regex )
 if(Boost_FOUND)
 	include_directories( ${Boost_INCLUDE_DIRS} )
