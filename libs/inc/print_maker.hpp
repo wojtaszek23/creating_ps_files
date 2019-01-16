@@ -6,10 +6,10 @@
 
    All rights reserved.
 
-   This is unpublished proprietary source code of Uni-Trol Sp. z o.o.
-   The contents of this file may not be disclosed to third parties,
-   copied or duplicated in any form, in whole or in part, without
-   prior written permission from Uni-Trol.
+   This is proprietary source code of Uni-Trol Sp. z o.o.
+   The contents of this file may not be copied or duplicated 
+   in any form, in whole or in part, without prior written 
+   permission from Uni-Trol.
 
 */
 
